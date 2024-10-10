@@ -19,9 +19,9 @@ const config: Config = {
         openSans: ["'Open Sans'", 'sans-serif'],
       },
       fontWeight: {
-        light: 300, // Light
-        regular: 400, // Regular
-        bold: 700, // Bold
+        light: "300", // Light
+        regular: "400", // Regular
+        bold: "700", // Bold
       },
       screens: {
         sm: "640px",
